@@ -15,7 +15,6 @@ const loginError = document.getElementById('login-error');
 
 const portfolioTableBody = document.querySelector('#portfolio-table tbody');
 const portfolioValueDisplay = document.getElementById('portfolio-value');
-const userNameDisplay = document.getElementById('user-name-display');
 const emptyPortfolioMsg = document.getElementById('empty-portfolio-msg');
 
 const logoutUserBtn = document.getElementById('logout-user');
@@ -23,24 +22,25 @@ const logoutUserBtn = document.getElementById('logout-user');
 // --- Utility functions ---
 
 async function loadJsonFile(url) {
-  const res = await fetch(url);
+  const res = await fetch(url, {cache: "no-store"}); // evita cache browser
   if (!res.ok) throw new Error(`Errore caricamento file ${url}`);
   return await res.json();
 }
 
-function getStoredJson(url, defaultData) {
-  let stored = null;
-  if (url === utentiUrl) stored = localStorage.getItem('utenti');
-  else if (url === commoditiesUrl) stored = localStorage.getItem('azioni');
-  if (stored) return JSON.parse(stored);
-  else return defaultData;
-}
+// --- Load initial data ---
 
-async function saveJsonFile(url, data) {
-  if (url === utentiUrl) {
-    localStorage.setItem('utenti', JSON.stringify(data));
-  } else if (url === commoditiesUrl) {
-    localStorage.setItem('azioni', JSON.stringify(data));
+async function loadInitialData() {
+  try {
+    const utentiData = await loadJsonFile(utentiUrl);
+    const commoditiesData = await loadJsonFile(commoditiesUrl);
+
+    // Usa sempre dati freschi senza localStorage
+    utenti = utentiData;
+    commodities = commoditiesData;
+
+  } catch (err) {
+    alert('Errore caricamento dati. Ricarica la pagina.');
+    console.error(err);
   }
 }
 
@@ -52,20 +52,6 @@ function showPage(pageId) {
 function clearMessages() {
   loginError.textContent = '';
   loginError.classList.remove('show');
-}
-
-// --- Load initial data ---
-
-async function loadInitialData() {
-  try {
-    const utentiData = await loadJsonFile(utentiUrl);
-    const commoditiesData = await loadJsonFile(commoditiesUrl);
-    utenti = getStoredJson(utentiUrl, utentiData);
-    commodities = getStoredJson(commoditiesUrl, commoditiesData);
-  } catch (err) {
-    alert('Errore caricamento dati. Ricarica la pagina.');
-    console.error(err);
-  }
 }
 
 // --- Login ---
