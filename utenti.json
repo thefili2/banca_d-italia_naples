@@ -3,7 +3,7 @@
     "password": "password1",
     "portafoglio": {
       "oro": 50,
-      "ferro": 39,
+      "ferro": 0,
       "petrolio": 0
     }
   },
@@ -74,9 +74,18 @@
   "xxdarkxx": {
     "password": "grandecapo104",
     "portafoglio": {
-      "oro": 107,
+      "oro": 0,
+      "ferro": 0,
+      "petrolio": 0
+    }
+  },
+  "RangoBoy003": {
+    "password": "RangoConto",
+    "portafoglio": {
+      "oro": 143,
       "ferro": 0,
       "petrolio": 0
     }
   }
 }
+
