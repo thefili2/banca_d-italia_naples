@@ -1,17 +1,65 @@
 {
-  "user1": {
+  "Forzamodena1": {
     "password": "password1",
     "portafoglio": {
-      "oro": 10,
-      "ferro": 50,
-      "petrolio": 20
+      "oro": 50,
+      "ferro": 0,
+      "petrolio": 0
     }
   },
-  "user2": {
+  "Thefili02": {
     "password": "password2",
     "portafoglio": {
-      "oro": 5,
-      "ferro": 15,
+      "oro": 25,
+      "ferro": 0,
+      "petrolio": 0
+    }
+  },
+  "VinGamer09": {
+    "password": "password3",
+    "portafoglio": {
+      "oro": 0,
+      "ferro": 0,
+      "petrolio": 108
+    }
+  },
+  "VinGamer10": {
+    "password": "password4",
+    "portafoglio": {
+      "oro": 0,
+      "ferro": 193,
+      "petrolio": 0
+    }
+  },
+  "VinGamer11": {
+    "password": "password5",
+    "portafoglio": {
+      "oro": 143,
+      "ferro": 0,
+      "petrolio": 0
+    }
+  },
+  "thakekkoo": {
+    "password": "password6",
+    "portafoglio": {
+      "oro": 71,
+      "ferro": 0,
+      "petrolio": 108
+    }
+  },
+  "cyborgmecha11": {
+    "password": "password7",
+    "portafoglio": {
+      "oro": 50,
+      "ferro": 0,
+      "petrolio": 76
+    }
+  },
+  "ok_genny": {
+    "password": "password8",
+    "portafoglio": {
+      "oro": 4,
+      "ferro": 0,
       "petrolio": 0
     }
   }
