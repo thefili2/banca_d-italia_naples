@@ -1,14 +1,14 @@
 {
   "oro": {
     "nome": "Oro",
-    "prezzo": 58.30
+    "prezzo": 140.00
   },
   "ferro": {
     "nome": "Ferro",
-    "prezzo": 12.75
+    "prezzo": 51.76
   },
   "petrolio": {
     "nome": "Petrolio",
-    "prezzo": 73.40
+    "prezzo": 92.60
   }
 }
