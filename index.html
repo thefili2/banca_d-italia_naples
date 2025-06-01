@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Banca d’Italia - Broker Materie Prime</title>
+<link rel="stylesheet" href="style.css" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
+</head>
+<body>
+
+<!-- Loader -->
+<div id="loader" class="loader">
+  <div class="spinner"></div>
+</div>
+
+<header>
+  <h1 class="site-title">Banca D' Italia Brokerage Systems</h1>
+</header>
+
+<main id="main-content" class="hidden">
+  <!-- Login -->
+  <section id="login-page" class="page active" aria-label="Pagina di login">
+    <form id="login-form" aria-describedby="login-error">
+      <input type="text" id="username" placeholder="Username" aria-label="Username" required autocomplete="username" />
+      <input type="password" id="password" placeholder="Password" aria-label="Password" required autocomplete="current-password" />
+      <button type="submit" class="btn">Login</button>
+    </form>
+    <p id="login-error" class="error-message" role="alert" aria-live="assertive"></p>
+  </section>
+
+  <!-- Dashboard Utente -->
+  <section id="user-dashboard" class="page" aria-label="Dashboard utente">
+    <h1>Il Tuo Portafoglio</h1>
+    <div class="portfolio-section">
+      <table id="portfolio-table" role="table" aria-describedby="portfolio-description">
+        <caption id="portfolio-description" class="sr-only">Tabella portafoglio materie prime</caption>
+        <thead>
+          <tr>
+            <th scope="col">Materia Prima</th>
+            <th scope="col">Quantità</th>
+            <th scope="col">Prezzo Attuale (€)</th>
+            <th scope="col">Valore Totale (€)</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <p class="portfolio-total">Valore Totale Portafoglio: € <span id="portfolio-value">0.00</span></p>
+      <p id="empty-portfolio-msg" class="info-message hidden">Il tuo portafoglio è vuoto. Considera di contattare l’amministratore per aggiungere materie prime.</p>
+    </div>
+    <button id="logout-user" class="logout-btn"><i class="fa fa-sign-out-alt"></i> Logout</button>
+  </section>
+</main>
+
+<footer>
+  <p>Banca d’Italia &copy; 2025 - Tutte le informazioni presenti su questo sito devono ritenersi al gioco Roblox Naples, Italy</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

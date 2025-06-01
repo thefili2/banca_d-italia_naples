@@ -1,0 +1,18 @@
+{
+  "user1": {
+    "password": "password1",
+    "portafoglio": {
+      "oro": 10,
+      "ferro": 50,
+      "petrolio": 20
+    }
+  },
+  "user2": {
+    "password": "password2",
+    "portafoglio": {
+      "oro": 5,
+      "ferro": 15,
+      "petrolio": 0
+    }
+  }
+}
