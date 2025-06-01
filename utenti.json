@@ -62,5 +62,13 @@
       "ferro": 0,
       "petrolio": 0
     }
+  },
+  "ema_104104": {
+    "password": "contoazioniema104",
+    "portafoglio": {
+      "oro": 57,
+      "ferro": 0,
+      "petrolio": 0
+    }
   }
 }
