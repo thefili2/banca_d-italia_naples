@@ -3,7 +3,7 @@
     "password": "password1",
     "portafoglio": {
       "oro": 50,
-      "ferro": 0,
+      "ferro": 39,
       "petrolio": 0
     }
   },
@@ -66,7 +66,15 @@
   "ema_104104": {
     "password": "contoazioniema104",
     "portafoglio": {
-      "oro": 57,
+      "oro": 0,
+      "ferro": 0,
+      "petrolio": 0
+    }
+  },
+  "xxdarkxx": {
+    "password": "grandecapo104",
+    "portafoglio": {
+      "oro": 107,
       "ferro": 0,
       "petrolio": 0
     }
