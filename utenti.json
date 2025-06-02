@@ -94,5 +94,14 @@
       "ferro": 0,
       "petrolio": 162
     }
+  },
+  "D3M0N": {
+    "password": "DemonContoBroker",
+    "portafoglio": {
+      "oro": 1,
+      "ferro": 1,
+      "petrolio": 1
+    }
   }
 }
+
