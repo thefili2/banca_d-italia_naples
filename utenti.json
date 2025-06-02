@@ -102,6 +102,13 @@
       "ferro": 1,
       "petrolio": 1
     }
+  },
+  "Bossdragon": {
+    "password": "Bossdragoncontobroker",
+    "portafoglio": {
+      "oro": 36,
+      "ferro": 0,
+      "petrolio": 0
+    }
   }
 }
-
