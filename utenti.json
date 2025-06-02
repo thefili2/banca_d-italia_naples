@@ -86,6 +86,13 @@
       "ferro": 0,
       "petrolio": 0
     }
+  },
+  "ItsHero05": {
+    "password": "HeroContoBroker",
+    "portafoglio": {
+      "oro": 0,
+      "ferro": 0,
+      "petrolio": 162
+    }
   }
 }
-
