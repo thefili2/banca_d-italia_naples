@@ -159,4 +159,13 @@
       "petrolio": 0
     }
   }
+
+  "Harlock_099": {
+  "password": "Harlock_099Broker",
+  "portafoglio": {
+    "oro": 25,
+    "ferro": 0,
+    "petrolio": 0
+  }
+}
 }
