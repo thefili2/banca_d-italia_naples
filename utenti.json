@@ -66,7 +66,7 @@
   "ema_104104": {
     "password": "contoazioniema104",
     "portafoglio": {
-      "oro": 736,
+      "oro": 57,
       "ferro": 0,
       "petrolio": 0
     }
@@ -141,6 +141,22 @@
       "oro": 179,
       "ferro": 48,
       "petrolio": 27
+    }
+  },
+  "ucomandanti_2000": {
+    "password": "ucomandanti2000Broker",
+    "portafoglio": {
+      "oro": 10,
+      "ferro": 0,
+      "petrolio": 0
+    }
+  },
+  "itzmobzi": {
+    "password": "itzmobziBroker",
+    "portafoglio": {
+      "oro": 14,
+      "ferro": 0,
+      "petrolio": 0
     }
   }
 }
