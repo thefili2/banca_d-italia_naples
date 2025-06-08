@@ -10,7 +10,7 @@
   "Thefili02": {
     "password": "password2",
     "portafoglio": {
-      "oro": 1536,
+      "oro": 2536,
       "ferro": 0,
       "petrolio": 0
     }
@@ -194,9 +194,9 @@
   "iigiulio_law": {
     "password": "grandegrandecapo104",
     "portafoglio": {
-      "oro": 21,
-      "ferro": 19,
-      "petrolio": 11
+      "oro": 0,
+      "ferro": 0,
+      "petrolio": 0
     }
   },
   "GIANLOUONFIRE": {
