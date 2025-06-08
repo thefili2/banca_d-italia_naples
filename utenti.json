@@ -58,9 +58,9 @@
   "ok_genny": {
     "password": "password8",
     "portafoglio": {
-      "oro": 0,
-      "ferro": 0,
-      "petrolio": 0
+      "oro": 1,
+      "ferro": 2,
+      "petrolio": 2
     }
   },
   "ema_104104": {
