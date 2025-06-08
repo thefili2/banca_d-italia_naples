@@ -199,6 +199,14 @@
       "petrolio": 0
     }
   },
+    "stocazo1999": {
+    "password": "contobrokerstocazo",
+    "portafoglio": {
+      "oro": 27,
+      "ferro": 0,
+      "petrolio": 0
+    }
+  },
   "GIANLOUONFIRE": {
     "password": "giancontobroker",
     "portafoglio": {
