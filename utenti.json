@@ -51,7 +51,7 @@
     "password": "password7",
     "portafoglio": {
       "oro": 50,
-      "ferro": 0,
+      "ferro": 39,
       "petrolio": 76
     }
   },
@@ -197,6 +197,14 @@
       "oro": 21,
       "ferro": 19,
       "petrolio": 11
+    }
+  },
+  "GIANLOUONFIRE": {
+    "password": "giancontobroker",
+    "portafoglio": {
+      "oro": 0,
+      "ferro": 0,
+      "petrolio": 97
     }
   }
 }
