@@ -207,6 +207,14 @@
       "petrolio": 0
     }
   },
+    "steventhearmy": {
+    "password": "stevencontobroker",
+    "portafoglio": {
+      "oro": 20,
+      "ferro": 24,
+      "petrolio": 19
+    }    
+  },
   "GIANLOUONFIRE": {
     "password": "giancontobroker",
     "portafoglio": {
