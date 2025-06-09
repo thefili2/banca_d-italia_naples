@@ -213,7 +213,15 @@
       "oro": 20,
       "ferro": 24,
       "petrolio": 19
-    }    
+    }
+  },
+    "rangoboy": {
+    "password": "rangocontobroker",
+    "portafoglio": {
+      "oro": 581,
+      "ferro": 529,
+      "petrolio": 663
+    }        
   },
   "GIANLOUONFIRE": {
     "password": "giancontobroker",
