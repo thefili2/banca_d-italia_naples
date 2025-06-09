@@ -82,9 +82,9 @@
   "RangoBoy003": {
     "password": "RangoConto",
     "portafoglio": {
-      "oro": 286,
-      "ferro": 0,
-      "petrolio": 0
+      "oro": 867,
+      "ferro": 529,
+      "petrolio": 663
     }
   },
   "ItsHero05": {
@@ -214,14 +214,6 @@
       "ferro": 24,
       "petrolio": 19
     }
-  },
-    "rangoboy": {
-    "password": "rangocontobroker",
-    "portafoglio": {
-      "oro": 581,
-      "ferro": 529,
-      "petrolio": 663
-    }        
   },
   "GIANLOUONFIRE": {
     "password": "giancontobroker",
