@@ -14,6 +14,14 @@
       "ferro": 0,
       "petrolio": 0
     }
+    },
+  "nikola10": {
+    "password": "contobrokernikola",
+    "portafoglio": {
+      "oro": 58,
+      "ferro": 0,
+      "petrolio": 0
+    }  
   },
   "VinGamer09": {
     "password": "password3",
