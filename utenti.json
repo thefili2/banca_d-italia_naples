@@ -154,8 +154,8 @@
   "ucomandanti_2000": {
     "password": "ucomandanti2000Broker",
     "portafoglio": {
-      "oro": 10,
-      "ferro": 45,
+      "oro": 0,
+      "ferro": 0,
       "petrolio": 0
     }
   },
