@@ -230,6 +230,14 @@
       "ferro": 24,
       "petrolio": 19
     }
+    },
+    "imrealpoliceofficer": {
+    "password": "imrealcontobroker",
+    "portafoglio": {
+      "oro": 0,
+      "ferro": 0,
+      "petrolio": 0
+    }    
   },
   "GIANLOUONFIRE": {
     "password": "giancontobroker",
