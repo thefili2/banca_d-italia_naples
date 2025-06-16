@@ -154,7 +154,7 @@
   "ucomandanti_2000": {
     "password": "ucomandanti2000Broker",
     "portafoglio": {
-      "oro": 0,
+      "oro": 15,
       "ferro": 0,
       "petrolio": 0
     }
@@ -170,7 +170,7 @@
   "Harlock_099": {
     "password": "Harlock_099Broker",
     "portafoglio": {
-      "oro": 25,
+      "oro": 0,
       "ferro": 0,
       "petrolio": 0
     }
@@ -212,7 +212,7 @@
     "portafoglio": {
       "oro": 0,
       "ferro": 0,
-      "petrolio": 379
+      "petrolio": 0
     }
   },
     "stocazo1999": {
