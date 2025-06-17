@@ -68,7 +68,7 @@
     "portafoglio": {
       "oro": 1,
       "ferro": 2,
-      "petrolio": 2
+      "petrolio": 0
     }
   },
   "ema_104104": {
@@ -90,7 +90,7 @@
   "RangoBoy003": {
     "password": "RangoConto",
     "portafoglio": {
-      "oro": 867,
+      "oro": 1000,
       "ferro": 529,
       "petrolio": 663
     }
