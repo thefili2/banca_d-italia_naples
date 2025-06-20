@@ -214,7 +214,7 @@
       "ferro": 0,
       "petrolio": 0
     }
-  },
+},
   "iigiulio_law": {
     "password": "grandegrandecapo104",
     "portafoglio": {
@@ -223,7 +223,7 @@
       "petrolio": 0
     }
   },
-    "stocazo1999": {
+  "stocazo1999": {
     "password": "contobrokerstocazo",
     "portafoglio": {
       "oro": 27,
@@ -231,29 +231,21 @@
       "petrolio": 0
     }
   },
-    "steventhearmy": {
+  "steventhearmy": {
     "password": "stevencontobroker",
     "portafoglio": {
       "oro": 20,
       "ferro": 24,
-      "petrolio": 19
+      "petrolio": 26
     }
-    },
-    "imrealpoliceofficer": {
+  },
+  "imrealpoliceofficer": {
     "password": "imrealcontobroker",
     "portafoglio": {
       "oro": 15,
       "ferro": 0,
       "petrolio": 24
     }
-    },
-    "steventhearmy": {
-    "password": "stevencontobroker",
-    "portafoglio": {
-      "oro": 0,
-      "ferro": 0,
-      "petrolio": 26
-    }    
   },
   "GIANLOUONFIRE": {
     "password": "giancontobroker",
