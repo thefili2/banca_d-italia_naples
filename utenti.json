@@ -106,9 +106,9 @@
   "D3M0N": {
     "password": "DemonContoBroker",
     "portafoglio": {
-      "oro": 144,
-      "ferro": 1,
-      "petrolio": 1
+      "oro": 0,
+      "ferro": 0,
+      "petrolio": 0
     }
   },
   "Bossdragon": {
@@ -190,6 +190,14 @@
       "ferro": 0,
       "petrolio": 0
     }
+  },
+  "FortAndrea": {
+    "password": "fortcontobroker",
+    "portafoglio": {
+      "oro": 3,
+      "ferro": 9,
+      "petrolio": 4
+    }  
   },
   "alessandro_amopsr9": {
     "password": "alessandrocontobroker",
