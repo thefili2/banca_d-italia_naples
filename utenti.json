@@ -10,9 +10,9 @@
   "Thefili02": {
     "password": "password2",
     "portafoglio": {
-      "oro": 0 ,
+      "oro": 3000 ,
       "ferro": 0,
-      "petrolio": 2919
+      "petrolio": 0
     }
     },
   "nikola10": {
@@ -74,9 +74,9 @@
   "ema_104104": {
     "password": "contoazioniema104",
     "portafoglio": {
-      "oro": 0,
+      "oro": 563,
       "ferro": 0,
-      "petrolio": 572
+      "petrolio": 0
     }
   },
   "xxdarkxx": {
