@@ -14,7 +14,7 @@
       "ferro": 0,
       "petrolio": 0
     }
-    },
+  },
   "nikola10": {
     "password": "contobrokernikola",
     "portafoglio": {
@@ -231,6 +231,14 @@
       "petrolio": 0
     }
   },
+  "nobo66dy": {
+    "password": "nobodycontobroker",
+    "portafoglio": {
+      "oro": 93,
+      "ferro": 0,
+      "petrolio": 0
+    }  
+  },
   "steventhearmy": {
     "password": "stevencontobroker",
     "portafoglio": {
@@ -242,7 +250,7 @@
   "imrealpoliceofficer": {
     "password": "imrealcontobroker",
     "portafoglio": {
-      "oro": 15,
+      "oro": 95,
       "ferro": 0,
       "petrolio": 24
     }
