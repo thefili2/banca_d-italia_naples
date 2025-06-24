@@ -2,7 +2,7 @@
   "Forzamodena1": {
     "password": "password1",
     "portafoglio": {
-      "oro": 50,
+      "oro": 0,
       "ferro": 0,
       "petrolio": 0
     }
@@ -66,7 +66,7 @@
   "ok_genny": {
     "password": "password8",
     "portafoglio": {
-      "oro": 1,
+      "oro": 0,
       "ferro": 2,
       "petrolio": 0
     }
@@ -155,7 +155,7 @@
     "password": "ucomandanti2000Broker",
     "portafoglio": {
       "oro": 15,
-      "ferro": 0,
+      "ferro": 30,
       "petrolio": 0
     }
   },
@@ -194,9 +194,9 @@
   "FortAndrea": {
     "password": "fortcontobroker",
     "portafoglio": {
-      "oro": 3,
+      "oro": 0,
       "ferro": 9,
-      "petrolio": 4
+      "petrolio": 0
     }  
   },
   "alessandro_amopsr9": {
@@ -254,6 +254,30 @@
       "ferro": 0,
       "petrolio": 0
     }
+  },
+  "Costa1090": {
+    "password": "Costacontobroker",
+    "portafoglio": {
+      "oro": 590,
+      "ferro": 0,
+      "petrolio": 0
+    }  
+  },
+  "FrancescoInnova": {
+    "password": "ContoInnova1",
+    "portafoglio": {
+      "oro": 61,
+      "ferro": 0,
+      "petrolio": 0
+    }   
+  },
+  "TuridduInnova": {
+    "password": "InnovaBroker1",
+    "portafoglio": {
+      "oro": 0,
+      "ferro": 0,
+      "petrolio": 0
+    }    
   },
   "GIANLOUONFIRE": {
     "password": "giancontobroker",
