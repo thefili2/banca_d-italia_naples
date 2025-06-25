@@ -66,9 +66,9 @@
   "ok_genny": {
     "password": "password8",
     "portafoglio": {
-      "oro": 0,
-      "ferro": 2,
-      "petrolio": 0
+      "oro": 5,
+      "ferro": 4,
+      "petrolio": 4
     }
   },
   "ema_104104": {
@@ -174,7 +174,7 @@
       "ferro": 0,
       "petrolio": 0
     }
-    },
+  },
   "tarallo12344": {
     "password": "tarallocontobroker",
     "portafoglio": {
@@ -214,7 +214,7 @@
       "ferro": 0,
       "petrolio": 0
     }
-},
+  },
   "iigiulio_law": {
     "password": "grandegrandecapo104",
     "portafoglio": {
@@ -285,6 +285,14 @@
       "oro": 0,
       "ferro": 0,
       "petrolio": 97
+    }
+  },
+  "sinnombre_87": {
+    "password": "sinnombre87broker",
+    "portafoglio": {
+      "oro": 0,
+      "ferro": 0,
+      "petrolio": 89
     }
   }
 }
