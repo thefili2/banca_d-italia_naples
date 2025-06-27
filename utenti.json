@@ -151,6 +151,14 @@
       "petrolio": 27
     }
   },
+  "Rsromastar": {
+    "password": "romaInnovaconto5",
+    "portafoglio": {
+      "oro": 0,
+      "ferro": 0,
+      "petrolio": 0
+    }  
+  },
   "ucomandanti_2000": {
     "password": "ucomandanti2000Broker",
     "portafoglio": {
