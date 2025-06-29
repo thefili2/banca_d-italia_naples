@@ -302,5 +302,14 @@
       "ferro": 0,
       "petrolio": 89
     }
+  },
+  "valeriospacca": {
+    "password": "valeriospaccabroker",
+    "portafoglio": {
+      "oro": 956,
+      "ferro": 0,
+      "petrolio": 0
+    }
   }
 }
+
