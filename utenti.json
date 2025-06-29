@@ -146,9 +146,9 @@
   "Justeat18": {
     "password": "Justeatbroker",
     "portafoglio": {
-      "oro": 366,
-      "ferro": 48,
-      "petrolio": 27
+      "oro": 0,
+      "ferro": 0,
+      "petrolio": 0
     }
   },
   "Rsromastar": {
